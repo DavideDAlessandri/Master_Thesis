@@ -18,5 +18,5 @@ To use these scripts, install the Arduino IDE or Arduino CLI and configure it fo
 ## ST Scripts
 
 ---
-### Author
+## Author
 Davide D'Alessandri
