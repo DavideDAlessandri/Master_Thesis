@@ -23,5 +23,9 @@ To use these scripts please install the required libraries listed in the import 
 ## ST Scripts
 
 ---
+## Visual Studio 2022 Projects
+![alt text](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic.png?raw=true)
+
+---
 ## Author
 Davide D'Alessandri
