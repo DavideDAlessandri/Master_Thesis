@@ -26,6 +26,7 @@ To use these scripts please install the required libraries listed in the import 
 ## Visual Studio 2022 Projects
 ### Structure
 This folder contains the Visual Studio project containing the graphic tool to evaluate the correct functioning of the sensors:
+
 ![alt text](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic.png?raw=true)
 
 ### Usage
