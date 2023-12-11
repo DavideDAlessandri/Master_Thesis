@@ -12,7 +12,7 @@ To use these scripts, install the Arduino IDE or Arduino CLI and configure it fo
 ## microROS
 
 ---
-## ST Scripts
+## PLC Programs
 This folder contains the PLC program designed for using the skin with a Keba controller. The program contains both the 'stop on object detected' and 'hand guiding' programs.
 
 ---
