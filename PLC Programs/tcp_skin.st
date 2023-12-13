@@ -177,6 +177,17 @@ IF NOT(bEnableHand_DisableStop) AND bEnableStop THEN
 	END_IF
 	END_IF
 
+	//Stop program when PLC IO3 input is activated
+	(*
+	IF DistanceOK THEN
+		//Fermare il programma
+		bIntPrg:= TRUE; 
+	ELSE
+		//Far partire il programma
+		bCntPrg := TRUE;
+	END_IF
+	*)
+
 //--------------------------------------Hand-Guiding--------------------------------------------------
 
 IF iMinSensor = 1 OR iMinSensor = 8 OR iMinSensor = 16 OR iMinSensor = 17 OR iMinSensor = 18 OR iMinSensor = 2 OR iMinSensor = 9 THEN
