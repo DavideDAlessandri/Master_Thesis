@@ -31,8 +31,8 @@ Once the project is updated on an ESP32 microcontroller is possible to test the 
 It is possible to use a **micro-ROS Agent** just by using this docker command:
 
 ```bash
-# TCPv4 micro-ROS Agent
-docker run -it --rm -v /dev:/dev -v /dev/shm:/dev/shm --privileged --net=host microros/micro-ros-agent:$ROS_DISTRO tcp4 --port 8888 -v6
+# Serial micro-ROS Agent
+docker run -it --rm -v /dev:/dev -v /dev/shm:/dev/shm --privileged --net=host microros/micro-ros-agent:$ROS_DISTRO serial --dev [YOUR BOARD PORT] -v6
 ```
 
 See [micro-ROS for PlatformIO](https://github.com/micro-ROS/micro_ros_platformio) GitHub page for further information.
