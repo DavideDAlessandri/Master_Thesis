@@ -9,7 +9,7 @@ The files are organized following the chapter of the thesis, each folder corresp
 To use these scripts, install the Arduino IDE or Arduino CLI and configure it for programming ESP32 microcontrollers. The necessary libraries are either installed by the Arduino IDE or can be found in the 'ESP32 Scripts' folder.
 
 ---
-## microROS
+## micro-ROS
 ### Structure
 This folder contains the PlatformIO project that enables the communication of the sensor data to a ROS topic. 
 
