@@ -1,10 +1,10 @@
 # Master Thesis repository
 
-- [ESP32 Scripts](##ESP32-Scripts)
-- [micro-ROS](##micro-ROS)
-- [PLC Programs](##PLC-Programs)
-- [Python Scripts](##Python-Scripts)
-- [Visual Studio 2022 Projects](##Visual-Studio-2022-Projects)
+- [ESP32 Scripts](##esp32-scripts)
+- [micro-ROS](##micro-ros)
+- [PLC Programs](##plc-programs)
+- [Python Scripts](##python-scripts)
+- [Visual Studio 2022 Projects](##visual-studio-2022-projects)
 
 ---
 ## ESP32 Scripts
