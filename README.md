@@ -6,6 +6,9 @@
 - [Python Scripts](#python-scripts)
 - [Visual Studio 2022 Projects](#visual-studio-2022-projects)
 
+
+[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://youtu.be/hE-AuwIRyF0 "Video")
+
 ---
 ## ESP32 Scripts
 ### Structure
