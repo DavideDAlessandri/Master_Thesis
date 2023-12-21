@@ -6,9 +6,6 @@
 - [Python Scripts](#python-scripts)
 - [Visual Studio 2022 Projects](#visual-studio-2022-projects)
 
-
-[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://youtu.be/hE-AuwIRyF0 "Video")
-
 ---
 ## ESP32 Scripts
 ### Structure
@@ -68,6 +65,12 @@ This folder contains the Visual Studio project containing the graphic tool to ev
 
 ### Usage
 To use this tool, open the project in Visual Studio 2022 and build it. Alternatively, go to "Visual Studio 2022 Projects/Esp32_24_sensors/Esp32_24_sensors/obj/Debug" and run the ".exe" file. This tool works in association with the relative ESP32 script.
+
+
+---
+## Video
+
+[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://youtu.be/hE-AuwIRyF0 "Video")
 
 ---
 ## Author
