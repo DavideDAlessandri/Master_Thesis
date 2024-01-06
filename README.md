@@ -1,5 +1,7 @@
 # Master Thesis repository
 
+This repository contains all the programs and scripts created for my master thesis. The repository is divided by platform and programming language. Each folder corresponds to a chapter and contains the relative scripts.
+
 - [ESP32 Scripts](#esp32-scripts)
 - [micro-ROS](#micro-ros)
 - [PLC Programs](#plc-programs)
