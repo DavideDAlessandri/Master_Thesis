@@ -73,7 +73,7 @@ To use this tool, open the project in Visual Studio 2022 and build it. Alternati
 ---
 ## Video
 
-[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://drive.google.com/file/d/1ZtH2q_jirUrARcSmUYkZFhB5ddmpecvP/view?usp=sharing "Video")
+[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://drive.google.com/file/d/1ycumIlIqbxYZumS2IjAy2fAsK8HsjiYJ/view?usp=sharing "Video")
 
 ---
 ## Author
