@@ -7,7 +7,6 @@ This repository contains all the programs and scripts created for my master thes
 - [PLC Programs](#plc-programs)
 - [Python Scripts](#python-scripts)
 - [Visual Studio 2022 Projects](#visual-studio-2022-projects)
-- [Video](#video)
 
 ---
 ## ESP32 Scripts
@@ -69,11 +68,6 @@ This folder contains the Visual Studio project containing the graphic tool to ev
 ### Usage
 To use this tool, open the project in Visual Studio 2022 and build it. Alternatively, go to "Visual Studio 2022 Projects/Esp32_24_sensors/Esp32_24_sensors/obj/Debug" and run the ".exe" file. This tool works in association with the relative ESP32 script.
 
-
----
-## Video
-
-[![Video](https://github.com/DavideDAlessandri/Master_Thesis/blob/main/Visual%20Studio%202022%20Projects/pic2.png?raw=true)](https://drive.google.com/file/d/1VNplj4vQMf3WB4VPN2H7YM0yY8rzrgbV/view?usp=sharing "Video")
 
 ---
 ## Author
